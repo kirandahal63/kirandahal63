@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20,24&height=200&section=header&text=Kiran%20Dahal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,20,24&height=200&section=header&text=Kiran%20Dahal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Aspiring%20Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;AI+Enthusiastic;Developer;Turning+Data+into+Decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+Intelligent+Systems;AI+Enthusiastic;Developer;Turning+Data+into+Decisions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,8 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lalitpur-Nepal-5B21B6?style=flat-square"/>
-  &nbsp;
+ 
   <!-- Portfolio badge — 
   <a href="https://your-portfolio-url.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
@@ -54,7 +53,7 @@ I am an **AI Enthusiast** currently pursuing a **BSc (Hons) in Computing with Ar
 
 My engineering philosophy centers on building software that is **performant, scalable, and purposeful** from data annotation pipelines that accelerate ML training workflows to centralized travel booking platforms designed for underserved markets. I approach every project with a product mindset: understanding the user problem first, then architecting solutions that solve it elegantly.
 
-I have hands-on experience across the full stack — Python, Java, Django, REST APIs, SQL databases — and I am deepening my expertise in **machine learning, NLP, and intelligent data systems**. I believe the most impactful AI is built at the intersection of strong software engineering and domain-specific understanding.
+I have hands-on experience across the full stack — Python, Java, Django, REST APIs, SQL databases and I am deepening my expertise in **machine learning, NLP, and intelligent data systems**. I believe the most impactful AI is built at the intersection of strong software engineering and domain-specific understanding.
 
 ---
 
@@ -66,17 +65,17 @@ I have hands-on experience across the full stack — Python, Java, Django, REST 
 <p align="center"><sub><b>Languages</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,bootstrap&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=django,bootstrap&theme=dark&perline=8" />
 </p>
 <p align="center"><sub><b>Frontend & Frameworks</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark&perline=8" />
 </p>
 <p align="center"><sub><b>Backend & Databases</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark&perline=8" />
 </p>
 <p align="center"><sub><b>Cloud, DevOps & Tooling</b></sub></p>
 
@@ -241,34 +240,6 @@ Gantavya was conceived as a direct response to the inefficiencies plaguing Nepal
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirandahal63/kirandahal63/output/github-snake.svg" />
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kirandahal63/kirandahal63/output/github-snake-dark.svg" width="100%" />
   </picture>
-</p>
-
----
-
-
-
----
-
-## ◈ Connect
-
-<p align="center">
-  <a href="mailto:dahal.utsav63@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dahal.utsav63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/kiran-dahal63">
-    <img src="https://img.shields.io/badge/LinkedIn-Kiran%20Dahal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/kirandahal63">
-    <img src="https://img.shields.io/badge/GitHub-kirandahal63-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <!-- Portfolio button — 
-  &nbsp;
-  <a href="https://your-portfolio-url.com">
-    <img src="https://img.shields.io/badge/Portfolio-your--site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  -->
 </p>
 
 ---
