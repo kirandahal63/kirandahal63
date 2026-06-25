@@ -4,20 +4,20 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Full+Stack+%26+AI+Engineer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;BSc+Computing+with+AI+%40+London+Met+Univ;Turning+Data+into+Decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;AI+Enthusiastic;Developer;Turning+Data+into+Decisions" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BSc%20Computing%20with%20AI-London%20Metropolitan%20University-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Islington%20College-Kathmandu%2C%20Nepal-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Islington%20College-Kathmandu%2C%20Nepal-6D28D9?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Hattiban%2C%20Lalitpur-Nepal-5B21B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lalitpur-Nepal-5B21B6?style=flat-square"/>
   &nbsp;
-  <!-- Portfolio badge — add your URL here when ready
+  <!-- Portfolio badge — 
   <a href="https://your-portfolio-url.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
@@ -50,14 +50,11 @@
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=kirandahal63&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A78BFA&text_color=C4B5FD&ring_color=7C3AED&count_private=true" />
 
-I am an **AI & Full Stack Engineer** currently pursuing a **BSc (Hons) in Computing with Artificial Intelligence** at London Metropolitan University via Islington College, Kathmandu. I engineer production-grade systems that bridge the gap between intelligent algorithms and real-world usability.
+I am an **AI Enthusiast** currently pursuing a **BSc (Hons) in Computing with Artificial Intelligence** at London Metropolitan University via Islington College, Kathmandu. I engineer production grade systems that bridge the gap between intelligent algorithms and real-world usability.
 
-My engineering philosophy centers on building software that is **performant, scalable, and purposeful** — from data annotation pipelines that accelerate ML training workflows to centralized travel booking platforms designed for underserved markets. I approach every project with a product mindset: understanding the user problem first, then architecting solutions that solve it elegantly.
+My engineering philosophy centers on building software that is **performant, scalable, and purposeful** from data annotation pipelines that accelerate ML training workflows to centralized travel booking platforms designed for underserved markets. I approach every project with a product mindset: understanding the user problem first, then architecting solutions that solve it elegantly.
 
 I have hands-on experience across the full stack — Python, Java, Django, REST APIs, SQL databases — and I am deepening my expertise in **machine learning, NLP, and intelligent data systems**. I believe the most impactful AI is built at the intersection of strong software engineering and domain-specific understanding.
-
-**Open To:**  
-`Internship Opportunities` &nbsp; `AI/ML Research Collaborations` &nbsp; `Open Source Contributions` &nbsp; `Graduate Roles (2026+)`
 
 ---
 
@@ -83,24 +80,7 @@ I have hands-on experience across the full stack — Python, Java, Django, REST 
 </p>
 <p align="center"><sub><b>Cloud, DevOps & Tooling</b></sub></p>
 
----
 
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Natural Language Processing** | ⬛⬛⬛⬛⬜ Advanced | AWS Academy ML for NLP · Text Classification · Tokenization |
-| **Data Engineering** | ⬛⬛⬛⬛⬜ Advanced | AWS Data Engineering Academy · Pipeline Design · ETL |
-| **Data Annotation & Labeling** | ⬛⬛⬛⬛⬛ Expert | Custom Annotation Platform (LabelFlow) · Dataset Curation |
-| **Data Visualization** | ⬛⬛⬛⬛⬜ Advanced | Power BI · Chart.js · Analytical Dashboards |
-| **Machine Learning Fundamentals** | ⬛⬛⬛⬜⬜ Intermediate | Supervised Learning · Feature Engineering · Model Evaluation |
-| **REST API Design** | ⬛⬛⬛⬛⬛ Expert | Django REST Framework · JSON · API-first Architecture |
-
-</div>
-
----
 
 ## ◈ Featured Projects
 
@@ -201,39 +181,7 @@ Gantavya was conceived as a direct response to the inefficiencies plaguing Nepal
 <br/>
 </details>
 
----
 
-## ◈ Experience
-
-### Customer Success Representative &nbsp;·&nbsp; ING Skill Academy
-`May 2025 – November 2025`
-
-Served as a customer-facing representative responsible for ensuring a high-quality learning experience for students and prospective learners across ING Skill Academy's programs.
-
-- Addressed student inquiries and provided guidance on course selection, enrollment processes, and platform navigation
-- Maintained consistent, professional communication with clients across calls, email, and messaging platforms
-- Resolved concerns and escalated complex cases efficiently to ensure high satisfaction rates
-- Managed and maintained accurate customer records and interaction logs
-- Collaborated cross-functionally with internal teams to surface feedback and improve the overall customer journey
-
-`Communication` `CRM` `Customer Success` `Problem Solving` `Team Collaboration`
-
----
-
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🎓 **BSc Computing with AI** | London Metropolitan University via Islington College · 2024–Present |
-| 🏆 **Gantavya — Travel Booking Platform** | End-to-end full-stack system for Nepal's intercity travel market |
-| 🤖 **LabelFlow — Annotation Platform** | Self-hosted ML data pipeline tool with full admin/annotator workflow |
-| 📊 **AWS Data Engineering** | AWS Academy certified data engineering practitioner |
-| 🧠 **AWS NLP Certification** | AWS Academy Machine Learning for Natural Language Processing |
-| 💼 **Customer Success @ ING Skill Academy** | Professional industry experience in client success and engagement |
-
-</div>
 
 ---
 
@@ -263,24 +211,6 @@ Served as a customer-facing representative responsible for ensuring a high-quali
 
 ---
 
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/kirandahal63">
-    <img src="https://img.shields.io/badge/LeetCode-kirandahal63-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/kirandahal63">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-kirandahal63-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/kirandahal63">
-    <img src="https://img.shields.io/badge/HackerRank-kirandahal63-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-</p>
-
----
-
 ## ◈ GitHub Analytics
 
 <p align="center">
@@ -291,14 +221,6 @@ Served as a customer-facing representative responsible for ensuring a high-quali
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kirandahal63&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&sideNums=7C3AED&currStreakNum=A78BFA&dates=6D28D9" width="60%"/>
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirandahal63&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 </p>
 
 ---
@@ -323,32 +245,7 @@ Served as a customer-facing representative responsible for ensuring a high-quali
 
 ---
 
-## ◈ Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Deep Learning & Neural Network Architectures
-    - Machine Learning Engineering (MLOps)
-    - Advanced NLP — Transformers & LLMs
-    - Cloud-native Architecture (AWS)
-
-  building:
-    - AI-powered annotation and data pipeline tools
-    - Scalable REST API backends with Django
-    - Full-stack applications with real-world impact
-
-  exploring:
-    - Retrieval-Augmented Generation (RAG)
-    - Vector Databases & Semantic Search
-    - Ethical AI & Responsible ML Systems
-
-  open_to:
-    - AI/ML Engineering Internships
-    - Full Stack Development Roles
-    - Research Collaborations
-    - Open Source Contributions
-```
 
 ---
 
@@ -366,7 +263,7 @@ current_focus:
   <a href="https://github.com/kirandahal63">
     <img src="https://img.shields.io/badge/GitHub-kirandahal63-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- Portfolio button — uncomment and add URL when ready
+  <!-- Portfolio button — 
   &nbsp;
   <a href="https://your-portfolio-url.com">
     <img src="https://img.shields.io/badge/Portfolio-your--site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -377,7 +274,7 @@ current_focus:
 ---
 
 <p align="center">
-  <i>"Engineering is not about writing code — it's about solving the right problems, the right way."</i>
+  <i>"Engineering is not about writing code, it's about solving the right problems, the right way."</i>
 </p>
 
 <p align="center">
