@@ -47,13 +47,7 @@
 
 ## ◈ About
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=kirandahal63&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=A78BFA&text_color=C4B5FD&ring_color=7C3AED&count_private=true" />
-
-I am an **AI Enthusiast** currently pursuing a **BSc (Hons) in Computing with Artificial Intelligence** at London Metropolitan University via Islington College, Kathmandu. I engineer production grade systems that bridge the gap between intelligent algorithms and real-world usability.
-
-My engineering philosophy centers on building software that is **performant, scalable, and purposeful** from data annotation pipelines that accelerate ML training workflows to centralized travel booking platforms designed for underserved markets. I approach every project with a product mindset: understanding the user problem first, then architecting solutions that solve it elegantly.
-
-I have hands-on experience across the full stack — Python, Java, Django, REST APIs, SQL databases and I am deepening my expertise in **machine learning, NLP, and intelligent data systems**. I believe the most impactful AI is built at the intersection of strong software engineering and domain-specific understanding.
+**AI and Software Engineering Enthusiast** passionate about building scalable, user-focused applications that solve real-world problems. Experienced in Python, Java, Django, REST APIs, SQL, Git, and full-stack web development, with a growing focus on machine learning, natural language processing, and intelligent systems. Driven by a passion for combining strong software engineering with AI to create practical, impactful technology.
 
 ---
 
